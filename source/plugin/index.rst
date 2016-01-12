@@ -45,6 +45,7 @@ Contents
     database
     permissions
     economy/index
+    scoreboard/index
     services
     wgen/index
     manager
