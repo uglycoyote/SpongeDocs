@@ -44,6 +44,7 @@ Contents
     blocks/index
     entities/index
     items/index
+    damage/index
     effects
     scheduler
     services
